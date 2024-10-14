@@ -18,6 +18,7 @@
   "homepage": "https://github.com/vaecherdt/lionsdev-workshop-management#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "mongoose": "^8.7.0"
   }
